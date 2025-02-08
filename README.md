@@ -8,9 +8,7 @@ A simple, responsive web project that showcases expanding image panels with smoo
 - **Responsive Design:** Adjusts gracefully to different screen sizes, hiding extra panels on smaller devices.
 - **Minimalistic UI:** Clean layout with stunning background images.
 
-## 📸 Demo
 
-![Demo](https://images.unsplash.com/photo-1512716027040-313faf068b55)
 
 ## 🛠️ Technologies Used
 
@@ -30,7 +28,7 @@ Interactive-Expanding-Cards/
 ## 📋 How to Use
 
 1. **Clone the repository:**  
-   `git clone https://github.com/your-username/Interactive-Expanding-Cards.git`
+   `git clone https://github.com/King-luiz/Interactive-Expanding-Cards.git`
 
 2. **Navigate to the project folder:**  
    `cd Interactive-Expanding-Cards`
@@ -59,5 +57,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-**Developed by [Your Name]** 🚀
+**Developed by Lewins M Luiz** 🚀
 
